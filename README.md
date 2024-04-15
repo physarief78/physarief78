@@ -2,17 +2,17 @@
 - 🔭 I’m currently majoring in physics at Universitas Padjadjaran
 - 🌱 In my physics major, i'm currently learning about quantum and nuclear physics with support of computational physics
 - ⚡ Fun fact: Interested in nuclear physics and its aplication on agrcultural sciences.
-- 
+
 ## Connect with Me
-You can find and get in touch with me on these platforms:
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" />][Instagram]
+
 ## Languages and Tools
 
 ### Programming Languages
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/latex-original.svg" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" />
 
 <!-- Links -->
 [LinkedIn]: https://www.linkedin.com/in/yourusername/
