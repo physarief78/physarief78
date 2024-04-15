@@ -6,7 +6,7 @@
 ## Connect with Me
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" />][Instagram]
-
+<br />
 ## Languages and Tools
 
 ### Programming Languages
