@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently majoring in physics at Universitas Padjadjaran
-🌱 In my physics major, i'm currently learning about quantum and nuclear physics with support of computational physics
-⚡ Fun fact: Interested in nuclear physics and its aplication on agrcultural sciences.
+- 🔭 I’m currently majoring in physics at Universitas Padjadjaran
+- 🌱 In my physics major, i'm currently learning about quantum and nuclear physics with support of computational physics
+- ⚡ Fun fact: Interested in nuclear physics and its aplication on agrcultural sciences.
 
 
 <!--
