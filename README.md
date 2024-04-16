@@ -12,7 +12,7 @@
 ### Programming Languages
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" width="40" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30" width="40" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" height="30" width="40" />
+<a <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" height="30" width="40" /> </a>
 
 <br />
 
