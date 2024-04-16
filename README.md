@@ -13,7 +13,7 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" />
-
+<br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=physarief78&show_icons=true&locale=en&layout=compact" alt="physarief78" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=physarief78&show_icons=true&locale=en" alt="physarief78" /></p>
 
