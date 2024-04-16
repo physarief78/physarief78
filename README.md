@@ -15,8 +15,8 @@
 ![LaTeX][latex-shield]
 
 ### Stats
-!Top Langs
-!GitHub Stats
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=physarief78&show_icons=true&locale=en&layout=compact" alt="physarief78" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=physarief78&show_icons=true&locale=en" alt="physarief78" />
 
 <!-- Shields -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=flat-square&logo=linkedin&colorB=555
