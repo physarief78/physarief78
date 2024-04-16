@@ -17,7 +17,7 @@
 <br />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=physarief78&show_icons=true&locale=en&layout=compact" alt="physarief78" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=physarief78&show_icons=true&locale=en" alt="physarief78" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=physarief78&show_icons=true&locale=en" alt="physarief78" />
 
 <!-- Links -->
 [LinkedIn]: https://www.linkedin.com/in/yourusername/
