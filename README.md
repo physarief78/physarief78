@@ -26,7 +26,7 @@
 [latex-shield]: https://img.shields.io/badge/-LaTeX-green.svg?style=flat-square&logo=latex&colorB=555
 
 <!-- Links -->
-[LinkedIn]: https://www.linkedin.com/in/yourusername/
+[LinkedIn]: https://www.linkedin.com/in/muhammad-arief-mulyana-6b00a92aa/
 [Instagram]: https://www.instagram.com/arief78_mtb/
 
 <!--
