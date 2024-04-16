@@ -10,13 +10,13 @@
 ## Languages and Stats
 
 ### Programming Languages
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" width="40" />]
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30" width="40" />]
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" height="30" width="40" />]
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" width="40" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30" width="40" />
+<img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" height="30" width="40" />
 <br />
 ### Stats
-[<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=physarief78&show_icons=true&locale=en&layout=compact" alt="physarief78" />]
-[<img align="center" src="https://github-readme-stats.vercel.app/api?username=physarief78&show_icons=true&locale=en" alt="physarief78" />]
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=physarief78&show_icons=true&locale=en&layout=compact" alt="physarief78" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=physarief78&show_icons=true&locale=en" alt="physarief78" />
 
 <!-- Links -->
 [LinkedIn]: https://www.linkedin.com/in/yourusername/
