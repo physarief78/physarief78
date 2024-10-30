@@ -13,6 +13,7 @@
 ![Python][python-shield]
 ![C++][cpp-shield]
 ![LaTeX][latex-shield]
+![Fortran][fortran-shield]
 
 ### Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=physarief78&show_icons=true&locale=en&layout=compact" alt="physarief78" />
@@ -24,6 +25,7 @@
 [python-shield]: https://img.shields.io/badge/-Python-yellow.svg?style=flat-square&logo=python&colorB=555
 [cpp-shield]: https://img.shields.io/badge/-C++-blue.svg?style=flat-square&logo=cplusplus&colorB=555
 [latex-shield]: https://img.shields.io/badge/-LaTeX-green.svg?style=flat-square&logo=latex&colorB=555
+[fortran-shield]: https://img.shields.io/badge/-Fortran-blueviolet.svg?style=flat-square&logo=fortran&colorB=555
 
 <!-- Links -->
 [LinkedIn]: https://www.linkedin.com/in/muhammad-arief-mulyana-6b00a92aa/
