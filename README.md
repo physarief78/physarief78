@@ -2,7 +2,7 @@
 - 🔭 I’m currently majoring in physics at **Universitas Padjadjaran**
 - 🌱 I'm currently learning about **quantum and nuclear physics** with support of computational physics
 - ⚡ Fun fact: Interested in **nuclear physics** and its application on **agricultural sciences**
-- 💬 Ask me anything about physics **physics**, **instrumentation**, and **reconstruction methods**
+- 💬 Ask me anything about **physics**, **instrumentation**, and **reconstruction methods**
 
 ## Connect with Me
 [![LinkedIn][linkedin-shield]][LinkedIn]
