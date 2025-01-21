@@ -28,6 +28,7 @@
 [cpp-shield]: https://img.shields.io/badge/-C++-blue.svg?style=flat-square&logo=cplusplus&colorB=555
 [latex-shield]: https://img.shields.io/badge/-LaTeX-green.svg?style=flat-square&logo=latex&colorB=555
 [fortran-shield]: https://img.shields.io/badge/-Fortran-blueviolet.svg?style=flat-square&logo=fortran&colorB=555
+[julia-shield]: https://img.shields.io/badge/-Julia-DDE6F1.svg?style=flat-square&logo=julia&colorB=555
 
 <!-- Links -->
 [LinkedIn]: https://www.linkedin.com/in/muhammad-arief-mulyana-6b00a92aa/
