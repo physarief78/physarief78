@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently majoring in physics at **Universitas Padjadjaran**
-- 🌱 I'm currently learning about **quantum and nuclear physics** with support of computational physics
-- ⚡ Fun fact: Interested in **nuclear physics** and its application on **agricultural sciences**
+- 🌱 I'm currently focusing on **atomic, molecular, & optical physics** with support of computational physics
+- ⚡ Fun fact: Interested in **numerical high-performance computation (NHPC)**, integrated with **sciences modeling and simulation**
 - 💬 Ask me anything about **physics**, **instrumentation**, and **reconstruction methods**
 
 ## Connect with Me
